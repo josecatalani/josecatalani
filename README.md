@@ -1,4 +1,4 @@
-### Hellom I'm Zé 👋
+### Hello I'm Zé 👋
 
 My name is José, but you can call me Zé. I'm a Brazilian Software Engineer from São Paulo, working at [Descomplica](https://descomplica.com.br).
 
