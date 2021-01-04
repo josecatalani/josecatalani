@@ -11,6 +11,6 @@ Now, I'm currently responsible to take _with so much_ care our SEO Growth deparm
 
 💬 Ask me about ... anything, I'm here.
 
-📫 How to reach me: @josecatalani, I have account ine very social media possible, don't read my tweets, seriously. _but follow me_ 😳😀
+📫 How to reach me: @josecatalani, I have account in very social media possible, don't read my tweets, seriously. _but follow me_ 😳😀
 
 😄 Pronouns: he/him
