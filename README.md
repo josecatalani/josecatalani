@@ -7,7 +7,7 @@ Now, I'm currently responsible to take _with so much_ care our SEO Growth deparm
 🌱 I’m currently learning:
  * Python: I really want to enter on python world, try to solve real life problems with a consistent language with an incredible community... but I think my heart will love learn more about...
 * Rust: Incredible language, well documented with so much opportunities to create, I'll give a try 👍
-* Data Structures: It is always importante to keep learning and practicing data structures, to a better readability in your code
+* Data Structures: It is always important to keep learning and practicing data structures, to a better readability in your code
 
 💬 Ask me about ... anything, I'm here.
 
