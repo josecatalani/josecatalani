@@ -1,6 +1,6 @@
 ### Hello I'm Zé 👋
 
-My name is José, but you can call me Zé. I'm a Brazilian Software Engineer from São Paulo, working at [Descomplica](https://descomplica.com.br).
+My name is José, but you can call me Zé. I'm a Brazilian Software Engineer from São Paulo, working at [Grover](https://www.grover.com).
 
 Now, I'm currently responsible to take _with so much_ care our SEO Growth department, and I'm loving it! 😀. Using React, Node, typescript, AWS services (cloudfront + r53 + s3 and much more) and trying to be proficient as possible. You can reach me to talk more about my position, let's go!
 
