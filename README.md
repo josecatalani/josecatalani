@@ -14,4 +14,4 @@ anything, I'm here.
 ### 📫. How to reach me: 
 @josecatalani, I have account in very social media possible, don't read my tweets, seriously. _but follow me_ 😳😀
 
-😄 Pronouns: he/him
+😄 Pronouns: they/them
